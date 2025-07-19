@@ -85,7 +85,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝘿𝙚𝙯𝙣𝙮",
                 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
 
-            ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+            ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 
         AUTO_STICKER: process.env.AUTO_STICKER || "false",
